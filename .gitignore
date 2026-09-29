@@ -1,0 +1,21 @@
+# Local documentation
+VITE_SETUP.md
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Local editor history
+.history/
+
+# macOS metadata
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
